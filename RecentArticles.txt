@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title> Computer Security </title><br>
+		<a href="ComputerSecurity.html">Click here to go to Home Page</a>
+		
+	</head>
+	<body bgcolor = "gray">
+		<h1> Recent Articles on the web on Computer Crimes</h1>
+		<br><em>Computer crime is an act performed by a knowledgeable computer user, sometimes referred to as a hacker that illegally browses or steals a company's or individual's private information. In some cases, this person or group of individuals may be malicious and destroy or otherwise corrupt the computer or data files.</em></br>
+		<img src = " crime1.jpg" width = " 500"/> 
+		<p1>
+		 <h3> Kaspersky: security firm tries to win back trust after Russian spying scandal</h3>
+		 <a href = "https://www.theguardian.com/technology/2017/oct/23/kaspersky-lab-security-firm-win-trust-russian-spying-scandal-antivirus"> Click here to read article </a>
+		</p1>
+		<p2>
+		 <h3> Child abuse images viewed by ‘horrifying’ number of people</h3>
+		 <a href = "https://www.theguardian.com/society/2017/oct/24/police-chief-number-of-uk-child-abuse-voyeurs-horrifying"> Click here to read article </a>
+		</p2>
+		<p3>
+		 <h3> Oilpro.Com Founder Sentenced To Prison For Hacking Into Competitor’s Computer System </h3>
+		 <a href = "https://www.justice.gov/usao-sdny/pr/oilprocom-founder-sentenced-prison-hacking-competitor-s-computer-system"> Click here to read article </a>
+		</p3>
+		<p4>
+		  <a href ="WebPages.html"> Previous Page </a>
+	</body>
+<p> Copyright &copy;2017 Azola Nofemela</p>
+</html>
